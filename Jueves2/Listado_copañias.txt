@@ -1,0 +1,12 @@
+LISTA DE COMPAÑIAS
+------------------------------------------------------------------------
+Nombre: Iberia
+ 
+Nombre: British Air
+ 
+Nombre: Ryan Air
+ 
+Nombre: Spanair
+ 
+------------------------------------------------------------------------
+Numero de Compañias: 4
